@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **BNY Mellon as a software engineer intern**
 
-- 🌱 I’m currently learning about **microservice architecture, Spring Boot, Apache Kafka, and Hazelcast cache**
+- 🌱 I’m currently learning about **microservice architecture, Spring Boot, Kafka, Kafka streams, and MongoDB**
 
 - 📫 How to reach me **hello@anthonytran.me**
 
