@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atran25&label=Profile%20views&color=0e75b6&style=flat" alt="atran25" /> </p>
 
-- 🔭 I’m currently working at **BNY Mellon as a software engineer intern**
+- 🔭 I’m currently working at **BNY Mellon as a software engineer**
 
 - 🌱 I’m currently learning about **microservice architecture, Spring Boot, Kafka, Kafka streams, and MongoDB**
 
