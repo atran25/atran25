@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **BNY Mellon as a software engineer**
 
-- 🌱 I’m currently learning about **microservice architecture, Spring Boot, Kafka, and MongoDB**
+- 🌱 I’m currently learning about **Go, Rust, C++**
 
 - 📫 How to reach me **hello@anthonytran.me**
 
