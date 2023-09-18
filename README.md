@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">An undergraduate Computer Science student at San Jose State University</h3>
+<h3 align="center">Backend Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atran25&label=Profile%20views&color=0e75b6&style=flat" alt="atran25" /> </p>
 
